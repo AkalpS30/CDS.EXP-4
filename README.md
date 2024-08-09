@@ -49,5 +49,7 @@ int main(){
     cout << "RIGHT SHIFT (a >> 1) : " << (a >> 1) << endl;
 return 0;
 }
+```
+
 ## Conclusion:
 Bitwise Operators are essential for tasks such as implementing efficient algorithms, controlling hardware etc. We learned how to use Bitwise Operators and implement them efficiently in C++ programming.
