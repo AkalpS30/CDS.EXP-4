@@ -50,6 +50,9 @@ int main(){
 return 0;
 }
 ```
+## Output 
+![OUPUT4](https://github.com/user-attachments/assets/5f1590a8-70ac-47a5-b84f-57c1a36e4323)
+
 
 ## Conclusion:
 Bitwise Operators are essential for tasks such as implementing efficient algorithms, controlling hardware etc. We learned how to use Bitwise Operators and implement them efficiently in C++ programming.
